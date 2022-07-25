@@ -104,10 +104,8 @@ fi
 echo "CIS Ubuntu Linux 20.04 LTS Benchmark"
 echo "v1.1.0 - 03-31-2021"
 echo
-echo hostname : `hostname`
-echo
-
 echo "System information"
+echo hostname : `hostname`
 echo `lsb_release -i`
 echo `lsb_release -d`
 echo `lsb_release -r`
