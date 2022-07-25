@@ -1,7 +1,9 @@
 # CIS-Benchmarchs Ubuntu Server 20.04
 
 ## Download
-
+``` 
+git clone https://github.com/SrEnrique/CIS_Ubuntu_Linux_20.04_LTS_Benchmark_v1.1.0_Scripts.git
+``` 
 ## Usage
 
 Run audit recommendation scripts
